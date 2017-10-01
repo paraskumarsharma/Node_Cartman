@@ -1,9 +1,9 @@
 {
   "name": "shopping-cart",
   "version": "1.0.1",
-  "main": "bin/www.js",
+  "main": "www.js",
   "scripts": {
-    "start": "node ./bin/www.js"
+    "start": "node www.js"
   },
   "dependencies": {
     "body-parser": "~1.13.2",
